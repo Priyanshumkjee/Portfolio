@@ -1,0 +1,72 @@
+[
+    {
+        "name": "CGPA Calculator",
+        "desc": "A console-based application to calculate Cumulative Grade Point Average (CGPA). Built entirely using **C++**.",
+        "image": "cgpa_calculator.png",
+        "category": "C++",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Login Registration System",
+        "desc": "A basic user authentication system (Login/Registration) featuring data persistence using file handling in **C++**.",
+        "image": "",
+        "category": "C++",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Banking System",
+        "desc": "A complete Banking Management System (e.g., account creation, deposit, withdrawal) implemented using **C++** and Object-Oriented Programming (OOP) principles.",
+        "image": "",
+        "category": "C++",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Virtual Assistant",
+        "desc": "An interactive Virtual Assistant application capable of performing system commands, responding to voice/text, and fetching real-time data.",
+        "image": "",
+        "category": "desktop",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Tic Tac Toe Game",
+        "desc": "The classic Tic Tac Toe game. Can be a console, desktop, or web application depending on the implementation language.",
+        "image": "",
+        "category": "game",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Spotify Clone",
+        "desc": "A clone of the Spotify web interface (UI/UX) or a basic music player application. Built using modern web technologies like React/Next.js and Tailwind CSS.",
+        "image": "",
+        "category": "web",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Image Generator",
+        "desc": "An application that generates images. Could be based on external APIs (like OpenAI DALL-E) or simple image manipulation libraries.",
+        "image": "",
+        "category": "web",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    }
+]
